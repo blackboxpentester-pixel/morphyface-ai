@@ -1,0 +1,8 @@
+
+{
+  "name": "MorphyFace AI",
+  "description": "An advanced face morphing and alteration studio powered by Gemini 2.5 Flash Image. Upload a face, describe a transformation, and control the generation seed for consistent results.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
