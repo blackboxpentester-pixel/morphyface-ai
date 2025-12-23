@@ -1,0 +1,40 @@
+
+{
+  "name": "MorphyFace AI Studio",
+  "short_name": "MorphyFace",
+  "description": "An advanced face morphing and alteration studio powered by Gemini 2.5 Flash Image. Morph faces using AI with full seed control.",
+  "id": "morphy-face-ai-pwa-v1",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10574/10574633.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/192/10574/10574633.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://placehold.co/1280x720/0f172a/f1f5f9?text=MorphyFace+Desktop+Studio",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://placehold.co/720x1280/0f172a/f1f5f9?text=MorphyFace+Mobile+Studio",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
